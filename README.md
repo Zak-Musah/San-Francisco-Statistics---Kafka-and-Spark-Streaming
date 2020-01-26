@@ -66,7 +66,7 @@ To confirme that the Kafka Server is producing accurately, a kafka consumer serv
           
 Output of Consumer Server
 
-![]()
+![Consumer_server](https://github.com/Zak-Musah/San-Francisco-Statistics---Kafka-and-Spark-Streaming/blob/master/images/Consumer_server.PNG)
           
 Step 4
 
@@ -76,6 +76,6 @@ Run the spark job using:
 
 Output of Aggregated Crimes
 
-![]()
+![Crime_agg](https://github.com/Zak-Musah/San-Francisco-Statistics---Kafka-and-Spark-Streaming/blob/master/images/Crime_agg.PNG)
 
 
