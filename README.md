@@ -8,10 +8,15 @@ In this project, a real-word dataset, extracted from Kaggle, on San Franscisco c
 # Requirements
 
 The environment required to set up the projects should be runned in the following manner
+
 •	Spark 2.4.3
+
 •	Scala 2.11.x
+
 •	Java 1.8.x
+
 •	Kafka build with Scala 2.11.x
+
 •	Python 3.6.x or 3.7.x
 
 # Environment Setup
