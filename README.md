@@ -27,7 +27,9 @@ For Macs or Linux:
 
 •	Unpack Spark in one of your folders (I usually put all my dev requirements in /home/users/user/dev).
 
-•	Download binary for Kafka from this location https://kafka.apache.org/downloads, with Scala 2.11, version 2.3.0. Unzip in your local directory where you unzipped your Spark binary as well. Exploring the Kafka folder, you’ll see the scripts to execute in bin folders, and config files under config folder. You’ll need to modify zookeeper.properties and server.properties. *Download Scala from the official site, or for Mac users, you can also use brew install scala, but make sure you download version 2.11.x.
+•	Download binary for Kafka from this location https://kafka.apache.org/downloads, with Scala 2.11, version 2.3.0. Unzip in your local directory where you unzipped your Spark binary as well. Exploring the Kafka folder, you’ll see the scripts to execute in bin folders, and config files under config folder. You’ll need to modify zookeeper.properties and server.properties. 
+
+•   Download Scala from the official site, or for Mac users, you can also use brew install scala, but make sure you download version 2.11.x.
 
 •	Run below to verify correct versions: java -version scala -version
 
