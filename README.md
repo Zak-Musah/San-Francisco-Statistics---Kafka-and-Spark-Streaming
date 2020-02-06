@@ -1,5 +1,5 @@
 # San-Francisco-Crime-Statistics---Kafka-and-Spark-Streaming
-    SF Crime Statistices with Spark Streaming
+    SF Crime Statistics with Spark Streaming
     
 # Description
 
@@ -70,7 +70,7 @@ kafka_server.py
  
 ## Step 3
 
-To confirme that the Kafka Server is producing accurately, a kafka consumer server is created to consume data from the topic - "crime_stats"
+To confirm that the Kafka Server is producing accurately, a kafka consumer server is created to consume data from the topic - "crime_stats"
 ```bash           
 consumer_server.py
 ```
